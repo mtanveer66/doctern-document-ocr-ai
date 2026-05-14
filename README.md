@@ -10,6 +10,19 @@ Doctern is an AI-powered document intelligence tool that extracts text, structur
 
 ---
 
+## Screenshots
+
+A look at the Doctern document intelligence interface.
+
+| Document Upload & Extraction | Field Configuration |
+|:---:|:---:|
+| [![Doctern AI document OCR upload screen — drag and drop PDF, scan, or image for text and table extraction](screenshots/upload.png)](screenshots/upload.png) | [![Doctern default field settings — configure which fields to extract from every document](screenshots/field-settings.png)](screenshots/field-settings.png) |
+
+- **Document Upload & Extraction** — drag and drop a PDF, scan, or image; Doctern runs OCR, table detection, and field matching automatically.
+- **Field Configuration** — define the named fields (invoice number, totals, dates) Doctern should pull from every document.
+
+---
+
 ## What is Doctern?
 
 **Doctern is an AI document OCR and table extraction platform.** You upload a PDF or image, and Doctern returns the text, the tables (with rows and columns preserved), and the specific fields you care about — ready to copy into Excel, Google Sheets, or your own systems.
