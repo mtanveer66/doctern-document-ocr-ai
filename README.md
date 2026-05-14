@@ -111,10 +111,15 @@ See the **Contact** section below.
 
 ## Contact & Demo
 
-Interested in using Doctern, integrating it, or seeing a live demo?
+Interested in using Doctern, integrating it, or seeing a live demo? Get in touch with the development team.
 
+| Developer | Email | WhatsApp |
+|-----------|-------|----------|
+| **Muhammad Maaz** | [mazwaseem098@gmail.com](mailto:mazwaseem098@gmail.com) | [+92 323 7609712](https://wa.me/923237609712) |
+| **Muhammad Tanveer** | [mtanveertahir66@gmail.com](mailto:mtanveertahir66@gmail.com) | [+92 320 6688665](https://wa.me/923206688665) |
+
+- **Company:** [Advenno](https://advenno.com)
 - **GitHub:** [@maaz-gobi](https://github.com/maaz-gobi)
-- **Inquiries:** open an issue in this repository, or reach out via GitHub.
 
 We work with businesses to automate document processing — get in touch to discuss your use case.
 
