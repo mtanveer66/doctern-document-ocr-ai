@@ -1,5 +1,35 @@
 # Doctern — AI Document OCR & Table Extraction
 
+<!-- recruiter-snapshot:start -->
+## Recruiter Snapshot
+
+**What this shows:** AI document OCR and table extraction platform for turning PDFs, scans, and images into structured data.
+
+**My role / team role:** Defined the document-intelligence workflow, extraction UX, field configuration model, technical documentation, and demo-facing case study.
+
+**Public proof:** Screenshots show document upload and extraction field configuration, with README coverage of OCR, tables, and field matching.
+
+**Tech and implementation areas:**
+- Python/FastAPI
+- OCR/vision pipeline
+- React/Vite UI
+- Structured JSON output
+- Spreadsheet-ready exports
+
+**Relevant roles this project supports:**
+- Document AI Developer
+- OCR Engineer
+- Full-Stack AI Engineer
+- Data Extraction Automation Developer
+
+## Source Code Access
+
+This is a public case-study repository. The production source code is private because it may contain proprietary business logic, client workflows, credentials, deployment details, or reusable internal implementation patterns. The public repo is intentionally focused on the product, screenshots, workflow, architecture, and evaluation material.
+
+For technical review, we can provide a live demo walkthrough, private repository access under NDA, a code screen-share, architecture review, or redacted implementation samples.
+<!-- recruiter-snapshot:end -->
+
+
 > **Turn any PDF, scan, or image into clean, structured data — text and tables — in seconds.**
 
 Doctern is an AI-powered document intelligence tool that extracts text, structured tables, and key fields from PDFs and images with high accuracy. Built for teams that are tired of manual data entry.
